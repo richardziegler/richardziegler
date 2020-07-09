@@ -1,5 +1,8 @@
-### Hi friends,
----
+# Well hi
+
+It looks like you've stumbled across my github account. Here's a little bit about me:
+
+👨‍💻 Software Engineer working at [Bayer](https://www.bayer.com).
 
 🔭 I’m currently working on a personal website using Gastby.
 
