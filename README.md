@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi friends 👋
+
+🔭 I’m currently working on a personal website using Gastby.
+
+🤔 Always curious about gamedev, would love to dig into Rust or C++ some day.
+
+🎮 Ask me about Dota 2 or JRPGs.
+📫 How to reach me: [@nablith](https://www.twitter.com/nablith) on Twitter or via email me@richardziegler.dev.
 
 <!--
 **richardziegler/richardziegler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
