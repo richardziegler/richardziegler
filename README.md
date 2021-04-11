@@ -4,7 +4,7 @@ It looks like you've stumbled across my github account. Here's a little bit abou
 
 👨‍💻  Software Engineer working at [Bayer](https://www.bayer.com).
 
-🔭  I’m currently working on a personal website using Gastby.
+🔭  I’m currently working on a personal website using Gatsby.
 
 🤔  Always curious about gamedev, would love to dig into Rust or C++ some day.
 
