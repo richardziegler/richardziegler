@@ -4,13 +4,11 @@ It looks like you've stumbled across my github account. Here's a little bit abou
 
 👨‍💻  Software Engineer working at [Bayer](https://www.bayer.com).
 
-🔭  I’m currently working on a personal website using Gatsby.
-
 🤔  Always curious about gamedev, would love to dig into Rust or C++ some day.
 
 🎮  Ask me about Dota 2 or JRPGs.
 
-📫  How to reach me: [@nablith](https://www.twitter.com/nablith) on Twitter or via email me@richardziegler.dev.
+📫  How to reach me: [@nablith](https://www.twitter.com/nablith)
 
 <!--
 **richardziegler/richardziegler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
