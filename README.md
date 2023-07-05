@@ -8,7 +8,7 @@ It looks like you've stumbled across my github account. Here's a little bit abou
 
 🎮  Ask me about Dota 2 or JRPGs.
 
-📫  How to reach me: [@nablith.bsky.social]((https://bsky.app/profile/nablith.bsky.social))
+📫  How to reach me: [@nablith.bsky.social](https://bsky.app/profile/nablith.bsky.social)
 
 <!--
 **richardziegler/richardziegler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
