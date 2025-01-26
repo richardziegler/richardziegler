@@ -2,7 +2,7 @@
 
 It looks like you've stumbled across my github account. Here's a little bit about me:
 
-👨‍💻  Software Engineer working at [Bayer](https://www.bayer.com).
+👨‍💻  Software Engineer [looking for my next opportunity](https://linkedin.com/in/richardjziegler).
 
 🤔  Always curious about game dev, would love to dig into Rust or C++ some day.
 
