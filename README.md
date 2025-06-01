@@ -1,14 +1,14 @@
-# Well hi
+# Well hi there
 
 It looks like you've stumbled across my github account. Here's a little bit about me:
 
-👨‍💻  Software Engineer [looking for my next opportunity](https://linkedin.com/in/richardjziegler).
+👨‍💻 Software Engineer at [Centene](https://centene.com).
 
-🤔  Always curious about game dev, would love to dig into Rust or C++ some day.
+🤔 Always curious about game dev, would love to dig into Rust or C++ some day.
 
-🎮  Ask me about Dota 2 or JRPGs.
+🎮 Ask me about Like a Dragon or JRPGs.
 
-📫  How to reach me: [@nablith.bsky.social](https://bsky.app/profile/nablith.bsky.social)
+🦋 Find me on Bluesky: [@nablith.bsky.social](https://bsky.app/profile/nablith.bsky.social)
 
 <!--
 **richardziegler/richardziegler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
